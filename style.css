@@ -1,0 +1,46 @@
+Body{
+  background-color: palegoldenrod;
+}
+h1{
+  color: blue;
+  font-family: fantasy;
+  text-decoration: overline;
+}
+h2{
+  color: mediumvioletred;
+  font-family: serif;
+  text-decoration: underline;
+  border-radius: 20px;
+}
+h4{
+  color: #8a59cb;
+  font-family: cursive;
+  text-decoration:line-through;
+} 
+p{
+  color: #d92661;
+  font-family: monospace;
+}
+.top-img {
+  height: 170px;
+  border-radius: 1px;
+  margin: 20px;
+}
+.main-img {
+  width: 50px;
+  float: left;
+  margin-right:50px;
+  border-radius:44px;
+}
+li{
+  color: #692bf1;
+  font-family: serif;
+  text-decoration: underline;
+}
+.myImage {
+  image-resolution: from-image;
+  width: 50px;
+  float: left;
+  margin-right:50px;
+  border-radius:44px;
+}
